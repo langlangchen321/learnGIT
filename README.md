@@ -1,2 +1,2 @@
 # learnGIT
-学习git
+学习GIT (修改了README.md的git为GIT)
